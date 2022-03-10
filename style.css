@@ -1,0 +1,47 @@
+ 
+ 
+ body {
+
+    margin: 0px;
+    padding: 30px;
+    overflow: hidden; 
+    background-color: rgb(139, 139, 139);
+    margin-left: 220px;  
+    margin-top: 30px;
+
+ }
+ 
+h1 {
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(19, 18, 18);
+   
+ }
+
+ 
+ canvas {
+ 
+    box-shadow: -3px 2px 9px 6px rgb(2, 2, 2);
+    cursor:crosshair;
+    
+ }
+
+ .button  {
+ 
+    width: 200px;
+    height: 50px;
+    border: 2px solid black ;
+    cursor: pointer;
+    color: white;
+    background: grey;
+    font-weight: bold;
+    
+
+ }
+
+ input {
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 870px;
+   
+ }
