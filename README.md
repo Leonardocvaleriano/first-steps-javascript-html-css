@@ -1,5 +1,6 @@
 <h2>  Objective 🎯</h2>
 Objective of the study plan: Create a basic WhiteBoard, to begin practicing programming logic, practice and know the intial use of HTML, CSS and also know about the use of some screen events and functions in JavaScript. 
+ <br><br>
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/97267699/157575221-0a6912e4-25ad-48d4-b28f-1f5a992d5642.gif)
 
